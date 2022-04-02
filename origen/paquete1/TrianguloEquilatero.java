@@ -13,10 +13,6 @@ public class TrianguloEquilatero {
 		return lado;
 	}
 
-	public void setLado(double lado) {
-		this.lado = lado;
-	}
-
 	public double getAltura() {
 		return altura;
 	}
@@ -32,5 +28,5 @@ public class TrianguloEquilatero {
 		}
 		return area;
 	}
-
+	
 }
