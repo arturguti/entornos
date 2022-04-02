@@ -39,8 +39,6 @@ public class TrianguloEquilatero {
 		double perimetro = lado*3;
 		return perimetro;
 	}
-	void metodoNoFuncional() {
-		
-	}
+	
 
 }
