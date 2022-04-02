@@ -21,9 +21,7 @@ public class TrianguloEquilatero {
 		return altura;
 	}
 
-	public void setAltura(double altura) {
-		this.altura = altura;
-	}
+	
 	
 	double calculaArea() {
 		double area = 0;
