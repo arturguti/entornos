@@ -32,11 +32,5 @@ public class TrianguloEquilatero {
 		}
 		return area;
 	}
-	
-	double calculaPerimetro() {
-		double perimetro = lado*3;
-		return perimetro;
-	}
-	
 
 }
